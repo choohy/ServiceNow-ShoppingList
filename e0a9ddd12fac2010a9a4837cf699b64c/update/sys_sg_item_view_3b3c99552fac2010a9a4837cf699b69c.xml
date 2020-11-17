@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Shopping List Store">bf3c99552fac2010a9a4837cf699b699</data_item>
+        <dependency_fields>store_name</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"Text":"","studio_template_field_id":"E1","TextColor":"#293e40","Font":{"Weight":"semibold","Size":13},"BackgroundColor":"#f1f1f1","Width":100,"Height":21,"MaxLines":1,"CornerRadius":2,"CellId":"store_name","TextAlignment":"Center","Type":"Text"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"Text":"","studio_template_field_id":"E2","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"MaxLines":1,"CellId":"","TextAlignment":"Right","Type":"Text"}],"Alignment":"Right","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Horizontal","Distribution":"Equal","Type":"ViewGroup"},{"Text":"","studio_template_field_id":"E3","TextColor":"#293e40","Font":{"Weight":"regular","Size":18},"MaxLines":2,"CellId":"","TextAlignment":"Left","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"Text":"","studio_template_field_id":"E4","studio_template_is_label":true,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Left","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E5","Scaling":"Fill","Width":22,"Height":22,"CornerRadius":11,"CellId":"","Margin":{"Right":6},"Type":"Image"},{"Text":"","studio_template_field_id":"E4","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"CellId":"","TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"Text":"","studio_template_field_id":"E6","studio_template_is_label":true,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Left","Margin":{"Right":8},"Type":"Text"},{"Text":"","studio_template_field_id":"E6","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"CellId":"","TextAlignment":"Left","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Vertical","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>Store Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 03:47:35</sys_created_on>
+        <sys_id>3b3c99552fac2010a9a4837cf699b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Detail Screen Item View</sys_name>
+        <sys_package display_value="Shopping List" source="x_370818_shopping">e0a9ddd12fac2010a9a4837cf699b64c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">e0a9ddd12fac2010a9a4837cf699b64c</sys_scope>
+        <sys_update_name>sys_sg_item_view_3b3c99552fac2010a9a4837cf699b69c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 03:47:35</sys_updated_on>
+        <table>x_370818_shopping_store</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=3b3c99552fac2010a9a4837cf699b69c"/>
+</record_update>
